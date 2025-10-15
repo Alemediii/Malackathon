@@ -1,0 +1,27 @@
+-- logico --
+CCAA Residencia
+Procedimiento 12
+Procedimiento 13
+Procedimiento 14
+Procedimiento 15
+Procedimiento 16
+Procedimiento 17
+Procedimiento 18
+Procedimiento 19
+Procedimiento 20
+GDR AP
+CDM AP
+Tipo GDR AP
+Valor Peso Español
+Tipo GDR APR
+Valor Peso Americano APR
+Reingreso
+GDR IR
+Tipo GDR IR
+Tipo PROCESO IR
+Procedimiento Externo 1
+Procedimiento Externo 2
+Procedimiento Externo 3
+Procedimiento Externo 4
+Procedimiento Externo 5
+Procedimiento Externo 6

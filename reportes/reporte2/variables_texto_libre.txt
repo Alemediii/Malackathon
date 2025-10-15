@@ -1,0 +1,30 @@
+-- texto libre --
+Nombre
+Fecha de Fin Contacto
+Diagnóstico Principal
+Diagnóstico 2
+Diagnóstico 3
+Diagnóstico 4
+Diagnóstico 5
+Diagnóstico 6
+Diagnóstico 7
+Diagnóstico 8
+Diagnóstico 9
+Diagnóstico 10
+Diagnóstico 11
+Diagnóstico 12
+Diagnóstico 13
+Diagnóstico 14
+Fecha de Intervención
+Procedimiento 1
+Procedimiento 2
+Procedimiento 3
+Procedimiento 4
+Procedimiento 5
+Número de registro anual
+CIP SNS Recodificado
+País Nacimiento
+País Residencia
+Fecha de Inicio contacto
+Diagnóstico 15
+Diagnóstico 16

@@ -1,0 +1,92 @@
+Variable: sexo
+  Mediana: 1
+  Moda: 1
+
+Variable: tipo_alta
+  Media: 1.26270627062706
+  Mediana: 1
+  Moda: 1
+  Min: 1
+  Max: 9
+  Desviación estándar: 1.07457337494588
+
+Variable: estancia_dias
+  Media: 15.4595002357379
+  Mediana: 11
+  Moda: 7
+  Min: 0
+  Max: 814
+  Desviación estándar: 19.8816476855414
+
+Variable: nivel_severidad_apr
+  Media: 1.53597359735974
+  Mediana: 1
+  Moda: 1
+  Min: 1
+  Max: 4
+  Desviación estándar: 0.583499038214683
+
+Variable: riesgo_mortalidad_apr
+  Media: 1.05700141442716
+  Mediana: 1
+  Moda: 1
+  Min: 1
+  Max: 4
+  Desviación estándar: 0.275184650754405
+
+Variable: edad
+  Media: 43.6448373408769
+  Mediana: 44
+  Moda: 42
+  Min: 0
+  Max: 96
+  Desviación estándar: 14.1075791646137
+
+Variable: coste_apr
+  Media: 5453.10655351249
+  Mediana: 5988
+  Moda: 6073
+  Min: 1496
+  Max: 70601
+  Desviación estándar: 1561.74839973841
+
+Variable: regimen_financiacion
+  Media: 1.07029702970297
+  Mediana: 1
+  Moda: 1
+  Min: 1
+  Max: 9
+
+Variable: procedencia
+  Mediana: 21
+  Moda: 21
+
+Variable: continuidad_asistencial
+  Media: 8.40914662894861
+  Mediana: 9
+  Moda: 9
+  Min: 1
+  Max: 9
+
+Variable: ingreso_en_uci
+  Media: 2.11970768505422
+  Mediana: 2
+  Moda: 2
+  Min: 1
+  Max: 9
+
+Variable: dias_uci
+  Media: 3.51
+  Mediana: 2
+  Moda: 1
+  Min: 0
+  Max: 38
+
+Variable: edad_en_ingreso
+  Media: 43.6756247053277
+  Mediana: 44
+  Moda: 42
+  Min: 0
+  Max: 96
+
+

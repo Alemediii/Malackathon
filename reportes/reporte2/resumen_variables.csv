@@ -1,0 +1,112 @@
+"variable","tipo","n_unique","n_na"
+"Comunidad Autónoma","character",2,0
+"Nombre","character",12455,0
+"Fecha de nacimiento","POSIXct",9302,0
+"Sexo","numeric",3,0
+"CCAA Residencia","logical",1,21210
+"Fecha de Ingreso","POSIXct",1096,0
+"Circunstancia de Contacto","numeric",2,0
+"Fecha de Fin Contacto","character",1133,0
+"Tipo Alta","numeric",7,0
+"Estancia Días","numeric",175,0
+"Diagnóstico Principal","character",263,0
+"Categoría","character",7,0
+"Diagnóstico 2","character",1587,2604
+"Diagnóstico 3","character",1540,6150
+"Diagnóstico 4","character",1471,9729
+"Diagnóstico 5","character",1238,12864
+"Diagnóstico 6","character",1031,15447
+"Diagnóstico 7","character",834,17375
+"Diagnóstico 8","character",657,18686
+"Diagnóstico 9","character",519,19593
+"Diagnóstico 10","character",389,20205
+"Diagnóstico 11","character",307,20542
+"Diagnóstico 12","character",214,20807
+"Diagnóstico 13","character",133,20969
+"Diagnóstico 14","character",106,21065
+"Fecha de Intervención","character",142,21069
+"Procedimiento 1","character",366,16590
+"Procedimiento 2","character",256,18482
+"Procedimiento 3","character",178,20136
+"Procedimiento 4","character",123,20766
+"Procedimiento 5","character",75,21017
+"Procedimiento 6","character",48,21108
+"Procedimiento 7","character",34,21140
+"Procedimiento 8","character",22,21157
+"Procedimiento 9","character",16,21173
+"Procedimiento 10","character",7,21186
+"Procedimiento 11","character",8,21194
+"Procedimiento 12","logical",1,21210
+"Procedimiento 13","logical",1,21210
+"Procedimiento 14","logical",1,21210
+"Procedimiento 15","logical",1,21210
+"Procedimiento 16","logical",1,21210
+"Procedimiento 17","logical",1,21210
+"Procedimiento 18","logical",1,21210
+"Procedimiento 19","logical",1,21210
+"Procedimiento 20","logical",1,21210
+"GDR AP","logical",1,21210
+"CDM AP","logical",1,21210
+"Tipo GDR AP","logical",1,21210
+"Valor Peso Español","logical",1,21210
+"GRD APR","numeric",26,0
+"CDM APR","numeric",6,0
+"Tipo GDR APR","logical",1,21210
+"Valor Peso Americano APR","logical",1,21210
+"Nivel Severidad APR","numeric",4,0
+"Riesgo Mortalidad APR","numeric",4,0
+"Servicio","character",30,0
+"Edad","numeric",94,0
+"Reingreso","logical",1,21210
+"Coste APR","numeric",213,0
+"GDR IR","logical",1,21210
+"Tipo GDR IR","logical",1,21210
+"Tipo PROCESO IR","logical",1,21210
+"CIE","numeric",1,0
+"Número de registro anual","character",21209,0
+"Centro Recodificado","character",45,0
+"CIP SNS Recodificado","character",10897,849
+"País Nacimiento","character",81,0
+"País Residencia","character",56,0
+"Fecha de Inicio contacto","character",20962,0
+"Régimen Financiación","character",7,0
+"Procedencia","character",10,0
+"Continuidad Asistencial","character",7,0
+"Ingreso en UCI","character",3,0
+"Días UCI","character",17,21110
+"Diagnóstico 15","character",71,21119
+"Diagnóstico 16","character",57,21144
+"Diagnóstico 17","character",35,21168
+"Diagnóstico 18","character",23,21185
+"Diagnóstico 19","character",17,21191
+"Diagnóstico 20","character",11,21200
+"POA Diagnóstico Principal","character",4,0
+"POA Diagnóstico 2","character",5,2604
+"POA Diagnóstico 3","character",5,6150
+"POA Diagnóstico 4","character",7,9729
+"POA Diagnóstico 5","character",6,12864
+"POA Diagnóstico 6","character",6,15447
+"POA Diagnóstico 7","character",6,17375
+"POA Diagnóstico 8","character",5,18686
+"POA Diagnóstico 9","character",5,19593
+"POA Diagnóstico 10","character",5,20205
+"POA Diagnóstico 11","character",5,20542
+"POA Diagnóstico 12","character",4,20807
+"POA Diagnóstico 13","character",4,20969
+"POA Diagnóstico 14","character",5,21065
+"POA Diagnóstico 15","character",5,21119
+"POA Diagnóstico 16","character",4,21144
+"POA Diagnóstico 17","character",4,21168
+"POA Diagnóstico 18","character",3,21185
+"POA Diagnóstico 19","character",3,21191
+"POA Diagnóstico 20","character",3,21200
+"Procedimiento Externo 1","logical",1,21210
+"Procedimiento Externo 2","logical",1,21210
+"Procedimiento Externo 3","logical",1,21210
+"Procedimiento Externo 4","logical",1,21210
+"Procedimiento Externo 5","logical",1,21210
+"Procedimiento Externo 6","logical",1,21210
+"Tipo GRD APR","character",2,0
+"Peso Español APR","numeric",214,0
+"Edad en Ingreso","numeric",94,0
+"Mes de Ingreso","character",36,0

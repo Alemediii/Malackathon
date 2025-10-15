@@ -1,0 +1,14 @@
+-- numerico --
+Sexo
+Circunstancia de Contacto
+Tipo Alta
+Estancia Días
+GRD APR
+CDM APR
+Nivel Severidad APR
+Riesgo Mortalidad APR
+Edad
+Coste APR
+CIE
+Peso Español APR
+Edad en Ingreso

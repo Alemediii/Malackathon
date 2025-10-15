@@ -1,0 +1,40 @@
+── Data Summary ────────────────────────
+                           Values    
+Name                       Piped data
+Number of rows             5000      
+Number of columns          13        
+_______________________              
+Column type frequency:               
+  numeric                  13        
+________________________             
+Group variables            None      
+
+── Variable type: numeric ──────────────────────────────────────────────────────
+   skim_variable             n_missing complete_rate    mean       sd       p0
+ 1 sexo                              0             1    1.46    0.591    1    
+ 2 circunstancia_de_contacto         0             1    1.11    0.308    1    
+ 3 tipo_alta                         0             1    1.20    0.779    1    
+ 4 estancia_dias                     0             1   15.1    19.6      0    
+ 5 grd_apr                           0             1  750.     41.3      4    
+ 6 cdm_apr                           0             1   19.0     1.15     0    
+ 7 nivel_severidad_apr               0             1    1.51    0.577    1    
+ 8 riesgo_mortalidad_apr             0             1    1.05    0.273    1    
+ 9 edad                              0             1   43.6    13.9      4    
+10 coste_apr                         0             1 5237.   1608.    1521    
+11 cie                               0             1   10       0       10    
+12 peso_espanol_apr                  0             1    1.15    0.353    0.334
+13 edad_en_ingreso                   0             1   43.6    13.9      4    
+        p25     p50     p75    p100 hist 
+ 1    1        1       2        9   ▇▁▁▁▁
+ 2    1        1       1        2   ▇▁▁▁▁
+ 3    1        1       1        9   ▇▁▁▁▁
+ 4    5       11      19      581   ▇▁▁▁▁
+ 5  750      752     753      950   ▁▁▁▇▁
+ 6   19       19      19       24   ▁▁▁▇▁
+ 7    1        1       2        4   ▇▇▁▁▁
+ 8    1        1       1        4   ▇▁▁▁▁
+ 9   34       44      53       92   ▁▆▇▃▁
+10 4009     5988    6122    70601   ▇▁▁▁▁
+11   10       10      10       10   ▁▁▇▁▁
+12    0.881    1.32    1.35    15.5 ▇▁▁▁▁
+13   34       44      53       92   ▁▆▇▃▁

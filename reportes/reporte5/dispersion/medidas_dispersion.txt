@@ -1,0 +1,209 @@
+Columna: sexo
+  Desviación estándar: 0.56
+  Rango: [1, 9]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 1
+    P75: 2
+    P90: 2
+    P95: 2
+    P99: 2
+
+Columna: circunstancia_de_contacto
+  Desviación estándar: 0.306
+  Rango: [1, 2]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 1
+    P75: 1
+    P90: 2
+    P95: 2
+    P99: 2
+
+Columna: tipo_alta
+  Desviación estándar: 1.075
+  Rango: [1, 9]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 1
+    P75: 1
+    P90: 1
+    P95: 3
+    P99: 8
+
+Columna: estancia_dias
+  Desviación estándar: 19.882
+  Rango: [0, 814]
+  Percentiles:
+    P25: 5
+    P50 (mediana): 11
+    P75: 19
+    P90: 32
+    P95: 43
+    P99: 81
+
+Columna: grd_apr
+  Desviación estándar: 33.578
+  Rango: [4, 952]
+  Percentiles:
+    P25: 750
+    P50 (mediana): 752
+    P75: 753
+    P90: 756
+    P95: 758
+    P99: 775
+
+Columna: cdm_apr
+  Desviación estándar: 0.955
+  Rango: [0, 24]
+  Percentiles:
+    P25: 19
+    P50 (mediana): 19
+    P75: 19
+    P90: 19
+    P95: 19
+    P99: 20
+
+Columna: nivel_severidad_apr
+  Desviación estándar: 0.583
+  Rango: [1, 4]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 1
+    P75: 2
+    P90: 2
+    P95: 2
+    P99: 3
+
+Columna: riesgo_mortalidad_apr
+  Desviación estándar: 0.275
+  Rango: [1, 4]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 1
+    P75: 1
+    P90: 1
+    P95: 1
+    P99: 2
+
+Columna: edad
+  Desviación estándar: 14.108
+  Rango: [0, 96]
+  Percentiles:
+    P25: 34
+    P50 (mediana): 44
+    P75: 53
+    P90: 61
+    P95: 67
+    P99: 78
+
+Columna: coste_apr
+  Desviación estándar: 1561.748
+  Rango: [1496, 70601]
+  Percentiles:
+    P25: 4228
+    P50 (mediana): 5988
+    P75: 6319
+    P90: 7078
+    P95: 7362
+    P99: 9229.47999999998
+
+Columna: cie
+  Desviación estándar: 0
+  Rango: [10, 10]
+  Percentiles:
+    P25: 10
+    P50 (mediana): 10
+    P75: 10
+    P90: 10
+    P95: 10
+    P99: 10
+
+Columna: numero_de_registro_anual
+  Desviación estándar: 4702400.343
+  Rango: [17630, 16328715]
+  Percentiles:
+    P25: 5624385.5
+    P50 (mediana): 8672260.5
+    P75: 15189980.5
+    P90: 15866858.3
+    P95: 16110847.4
+    P99: 16286221.99
+
+Columna: pais_residencia
+  Desviación estándar: 36.458
+  Rango: [12, 862]
+  Percentiles:
+    P25: 724
+    P50 (mediana): 724
+    P75: 724
+    P90: 724
+    P95: 724
+    P99: 724
+
+Columna: regimen_financiacion
+  Desviación estándar: 0.684
+  Rango: [1, 9]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 1
+    P75: 1
+    P90: 1
+    P95: 1
+    P99: 6
+
+Columna: procedencia
+  Desviación estándar: 5.127
+  Rango: [21, 90]
+  Percentiles:
+    P25: 21
+    P50 (mediana): 21
+    P75: 21
+    P90: 27
+    P95: 27
+    P99: 30
+
+Columna: continuidad_asistencial
+  Desviación estándar: 2.084
+  Rango: [1, 9]
+  Percentiles:
+    P25: 9
+    P50 (mediana): 9
+    P75: 9
+    P90: 9
+    P95: 9
+    P99: 9
+
+Columna: ingreso_en_uci
+  Desviación estándar: 0.928
+  Rango: [1, 9]
+  Percentiles:
+    P25: 2
+    P50 (mediana): 2
+    P75: 2
+    P90: 2
+    P95: 2
+    P99: 9
+
+Columna: dias_uci
+  Desviación estándar: 5.52
+  Rango: [0, 38]
+  Percentiles:
+    P25: 1
+    P50 (mediana): 2
+    P75: 3
+    P90: 7
+    P95: 11.05
+    P99: 35.03
+
+Columna: edad_en_ingreso
+  Desviación estándar: 14.118
+  Rango: [0, 96]
+  Percentiles:
+    P25: 34
+    P50 (mediana): 44
+    P75: 53
+    P90: 61
+    P95: 67
+    P99: 78
+
